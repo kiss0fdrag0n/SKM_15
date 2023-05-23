@@ -9,3 +9,4 @@ WTF_15
 - squash
 - squash 1.0.1
 - squash 5.1.2
+- squash 3.12.2
