@@ -1,8 +1,6 @@
 # SKM_15
 WTF_15 
 -line ff
-- line On
-- 
+- line On -ms
 - mks_2005
 - whot is the ?
-- 
